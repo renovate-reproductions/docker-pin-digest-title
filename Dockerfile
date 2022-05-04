@@ -1,1 +1,1 @@
-FROM node:18.1.0
+FROM node:18.1.0@sha256:71c779ea8a157e6efadcafdae79f00fb39b7f3fdb2819ebef3984315c281540f
